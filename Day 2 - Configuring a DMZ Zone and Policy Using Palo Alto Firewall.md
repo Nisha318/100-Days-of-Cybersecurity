@@ -14,6 +14,7 @@ With each step, I'm strengthening my cybersecurity knowledge and skills, one day
 
 Check out my article at: https://lnkd.in/gWdNAKsR
 
-<img src="https://github.com/Nisha318/Nisha318.github.io/blob/13faa5ee99dae9108a91b42109bc16337a7c72d5/assets/images/dmz-topology.jpg"
-hashtag#NotesByNisha hashtag#100DaysOfCybersecurity hashtag#PaloAltoFirewall hashtag#cybertechdave100daysofcyberchallenge hashtag#cyversity 
-hashtag#Cybersecurity hashtag#InfoSec hashtag#NetworkSecurity hashtag#BlackWomeninTech hashtag#womenintech hashtag#womenincybersecurity
+<img src="https://github.com/Nisha318/100-Days-of-Cybersecurity/blob/main/images/dmz-topology.jpg">
+
+#NotesByNisha #100DaysOfCybersecurity #PaloAltoFirewall #cyversity 
+#Cybersecurity #InfoSec #NetworkSecurity #BlackWomeninTech #womenintech #womenincybersecurity
